@@ -133,7 +133,7 @@ class cowsBulls {
 		return html`
 		<div class="play-template">
 			<div class="guess-number-wrapper">
-				<div class="title"> Enter ${this.gameLevel + 2} digit number </div>
+				<div class="title"> Find the hidden ${this.gameLevel + 2} digit number </div>
 				<input type=number .value=${this.currInput} @input=${this.onInputValue.bind(this)} @keydown=${this.onKeyDown} class="guessing-number"></input>
 				<div class="guess" @click=${this.findBullsAndCows.bind(this)}> GUESS </div>
 			</div>
