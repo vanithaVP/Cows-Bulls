@@ -1,6 +1,6 @@
 # Cows and Bulls
 
-Implemented using lit-html
+Implemented using [lit-html](https://lit-html.polymer-project.org)
 
 Click here to [play](https://vanithavp.github.io/Cows-Bulls/index.html)
 
