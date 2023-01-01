@@ -12,8 +12,8 @@
     "lit-html": "^1.1.1"
   },
   "devDependencies": {
-    "css-loader": "^3.1.0",
-    "style-loader": "^0.23.1",
-    "webpack": "^4.35.3"
+    "css-loader": "^6.7.3",
+    "style-loader": "^3.3.1",
+    "webpack": "^5.75.0"
   }
 }
